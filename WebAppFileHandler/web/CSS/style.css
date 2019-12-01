@@ -1,0 +1,44 @@
+body{
+    background-color: gainsboro;
+    font-family: 'Chilanka', cursive;
+}
+
+h3, h4 {
+    margin: auto;
+    text-align: center;
+}
+
+table{
+    margin:0 auto;
+    width:80%;
+    border:solid 3px aquamarine;
+    border-collapse: collapse;
+    background: white;
+}
+tr {
+    border:solid 3px graytext;
+}
+
+td, th{
+    text-align: center;
+}
+#file-form{
+    text-align: center;
+    padding:  20px;
+
+}            
+a{
+    text-decoration: none;  
+}
+button:hover{
+    background: brown; 
+    color:white;
+}
+#uploading-buffer{
+    display: none; 
+}
+
+p{
+    text-align: center;
+}
+
